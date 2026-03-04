@@ -1,0 +1,22 @@
+﻿# Pixel Shader: PS218B08CFI0O1
+
+### Identity
+* **Shader UID:** PS218B08CFI0O1
+* **Type:** ps
+* **Assembly Hash:** 0x218B08CF
+* **Bytecode Size:** (1428) bytes
+* **Runtime Hash:** 0x2EEC39F5
+
+### Hardware Interface
+* **Buffer Layout:** 
+* **Input Texture Slots:** 0,1,2
+* **Input Texture Dimensions:** 4@0,4@1,4@2
+* **Input Texture Mask:** 0x7
+* **Input Texture Count:** (3)
+* **Input Count (Vertex):** (0)
+* **Input Mask (Vertex):** 0x0
+* **Output Count:** (1)
+* **Output Mask:** 0x1
+
+---
+*GFXBooster ShaderDB.*

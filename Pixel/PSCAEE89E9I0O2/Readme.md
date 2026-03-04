@@ -1,0 +1,22 @@
+﻿# Pixel Shader: PSCAEE89E9I0O2
+
+### Identity
+* **Shader UID:** PSCAEE89E9I0O2
+* **Type:** ps
+* **Assembly Hash:** 0xCAEE89E9
+* **Bytecode Size:** (2512) bytes
+* **Runtime Hash:** 0x5998A897
+
+### Hardware Interface
+* **Buffer Layout:** 368@2,448@12
+* **Input Texture Slots:** 1,2,3
+* **Input Texture Dimensions:** 4@1,4@2,4@3
+* **Input Texture Mask:** 0xE
+* **Input Texture Count:** (3)
+* **Input Count (Vertex):** (0)
+* **Input Mask (Vertex):** 0x0
+* **Output Count:** (2)
+* **Output Mask:** 0x3
+
+---
+*GFXBooster ShaderDB.*

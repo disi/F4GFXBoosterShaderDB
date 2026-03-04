@@ -1,0 +1,22 @@
+﻿# Pixel Shader: PS6540FD33I0O1
+
+### Identity
+* **Shader UID:** PS6540FD33I0O1
+* **Type:** ps
+* **Assembly Hash:** 0x6540FD33
+* **Bytecode Size:** (1076) bytes
+* **Runtime Hash:** 0x455699EE
+
+### Hardware Interface
+* **Buffer Layout:** 48@1,240@2
+* **Input Texture Slots:** 0
+* **Input Texture Dimensions:** 4@0
+* **Input Texture Mask:** 0x1
+* **Input Texture Count:** (1)
+* **Input Count (Vertex):** (0)
+* **Input Mask (Vertex):** 0x0
+* **Output Count:** (1)
+* **Output Mask:** 0x1
+
+---
+*GFXBooster ShaderDB.*

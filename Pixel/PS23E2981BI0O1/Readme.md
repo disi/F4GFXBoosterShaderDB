@@ -1,0 +1,22 @@
+﻿# Pixel Shader: PS23E2981BI0O1
+
+### Identity
+* **Shader UID:** PS23E2981BI0O1
+* **Type:** ps
+* **Assembly Hash:** 0x23E2981B
+* **Bytecode Size:** (1780) bytes
+* **Runtime Hash:** 0x3DCDF867
+
+### Hardware Interface
+* **Buffer Layout:** 32@0
+* **Input Texture Slots:** 0
+* **Input Texture Dimensions:** 4@0
+* **Input Texture Mask:** 0x1
+* **Input Texture Count:** (1)
+* **Input Count (Vertex):** (0)
+* **Input Mask (Vertex):** 0x0
+* **Output Count:** (1)
+* **Output Mask:** 0x1
+
+---
+*GFXBooster ShaderDB.*

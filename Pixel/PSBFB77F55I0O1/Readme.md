@@ -1,0 +1,22 @@
+﻿# Pixel Shader: PSBFB77F55I0O1
+
+### Identity
+* **Shader UID:** PSBFB77F55I0O1
+* **Type:** ps
+* **Assembly Hash:** 0xBFB77F55
+* **Bytecode Size:** (632) bytes
+* **Runtime Hash:** 0x432F9CD2
+
+### Hardware Interface
+* **Buffer Layout:** 16@0
+* **Input Texture Slots:** 
+* **Input Texture Dimensions:** 
+* **Input Texture Mask:** 0x0
+* **Input Texture Count:** (0)
+* **Input Count (Vertex):** (0)
+* **Input Mask (Vertex):** 0x0
+* **Output Count:** (1)
+* **Output Mask:** 0x1
+
+---
+*GFXBooster ShaderDB.*
