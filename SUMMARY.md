@@ -1,6 +1,5 @@
 ﻿# GFXBooster ShaderDB
 
-Fallout 4 shader map
 The database catalogs unique logical instruction sets (via `asmHash`) to eliminate duplicate shaders.
 
 ### Engine Overview
