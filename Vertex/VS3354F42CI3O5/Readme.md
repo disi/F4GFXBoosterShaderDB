@@ -1,0 +1,22 @@
+﻿# Vertex Shader: VS3354F42CI3O5
+
+### Identity
+* **Shader UID:** VS3354F42CI3O5
+* **Type:** vs
+* **Assembly Hash:** 0x3354F42C
+* **Bytecode Size:** (1048) bytes
+* **Runtime Hash:** 0xBB7ECB50
+
+### Hardware Interface
+* **Buffer Layout:** 224@2
+* **Input Texture Slots:** 
+* **Input Texture Dimensions:** 
+* **Input Texture Mask:** 0x0
+* **Input Texture Count:** (0)
+* **Input Count (Vertex):** (3)
+* **Input Mask (Vertex):** 0x7
+* **Output Count:** (5)
+* **Output Mask:** 0x1F
+
+---
+*GFXBooster ShaderDB.*

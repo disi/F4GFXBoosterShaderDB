@@ -1,0 +1,22 @@
+﻿# Vertex Shader: VS207D3D7DI2O1
+
+### Identity
+* **Shader UID:** VS207D3D7DI2O1
+* **Type:** vs
+* **Assembly Hash:** 0x207D3D7D
+* **Bytecode Size:** (984) bytes
+* **Runtime Hash:** 0xA5D6678A
+
+### Hardware Interface
+* **Buffer Layout:** 1536@0
+* **Input Texture Slots:** 
+* **Input Texture Dimensions:** 
+* **Input Texture Mask:** 0x0
+* **Input Texture Count:** (0)
+* **Input Count (Vertex):** (2)
+* **Input Mask (Vertex):** 0x3
+* **Output Count:** (1)
+* **Output Mask:** 0x1
+
+---
+*GFXBooster ShaderDB.*
