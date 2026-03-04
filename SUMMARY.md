@@ -1,6 +1,6 @@
 ﻿# GFXBooster ShaderDB
 
-A comprehensive, deduplicated map of the Fallout 4 rendering engine.
+Fallout 4 shader map
 The database catalogs unique logical instruction sets (via `asmHash`) to eliminate duplicate shaders.
 
 ### Engine Overview
