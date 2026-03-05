@@ -23,8 +23,7 @@
 
 ### Tags
 * **Size Category:** Small
-* **Logic Engine:** Position aware (cb2)
-
+* **Logic Engine:** Material Parameter (cb2 size: 16)
 
 ---
 *GFXBooster ShaderDB.*

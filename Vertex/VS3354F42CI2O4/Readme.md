@@ -23,8 +23,7 @@
 
 ### Tags
 * **Size Category:** Small
-* **Logic Engine:** Position aware (cb2)
-
+* **Logic Engine:** World-Object Mapping (cb2 size: 224)
 
 ---
 *GFXBooster ShaderDB.*

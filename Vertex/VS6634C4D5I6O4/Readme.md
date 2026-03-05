@@ -23,8 +23,7 @@
 
 ### Tags
 * **Size Category:** Small
-* **Logic Engine:** Camera/Screen-Space Projection (cb12)
-
+* **Logic Engine:** View-Projection/Motion (cb12)
 
 ---
 *GFXBooster ShaderDB.*

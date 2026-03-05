@@ -23,8 +23,7 @@
 
 ### Tags
 * **Size Category:** Small
-* **Logic Engine:** Camera/Screen-Space Projection (cb12)
-* **Motion Awareness:** Yes (cb12 Motion Data detected)
+* **Logic Engine:** View-Projection/Motion (cb12)
 
 ---
 *GFXBooster ShaderDB.*

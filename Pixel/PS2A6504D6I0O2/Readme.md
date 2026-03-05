@@ -23,8 +23,7 @@
 
 ### Tags
 * **Size Category:** Medium
-* **Logic Engine:** Position aware (cb2)
-
+* **Logic Engine:** World-Object Mapping (cb2 size: 96)
 
 ---
 *GFXBooster ShaderDB.*

@@ -25,6 +25,5 @@
 * **Size Category:** Small
 * **Logic Engine:** Post-Process/Static
 
-
 ---
 *GFXBooster ShaderDB.*

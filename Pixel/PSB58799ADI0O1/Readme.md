@@ -25,6 +25,5 @@
 * **Size Category:** Huge Large Medium
 * **Logic Engine:** Post-Process/Static
 
-
 ---
 *GFXBooster ShaderDB.*

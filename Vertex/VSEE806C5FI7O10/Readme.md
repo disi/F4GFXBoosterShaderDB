@@ -23,8 +23,7 @@
 
 ### Tags
 * **Size Category:** Small
-* **Logic Engine:** Full World-to-Screen Transform (cb2+cb12)
-
+* **Logic Engine:** World-Object Mapping (cb2 size: 32) + View-Projection/Motion (cb12)
 
 ---
 *GFXBooster ShaderDB.*

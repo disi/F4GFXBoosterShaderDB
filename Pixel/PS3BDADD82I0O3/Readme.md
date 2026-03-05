@@ -23,8 +23,7 @@
 
 ### Tags
 * **Size Category:** Huge Large Medium
-* **Logic Engine:** Full World-to-Screen Transform (cb2+cb12)
-* **Motion Awareness:** Yes (cb12 Motion Data detected)
+* **Logic Engine:** Material Parameter (cb2 size: 16) + View-Projection/Motion (cb12)
 
 ---
 *GFXBooster ShaderDB.*
