@@ -12,14 +12,19 @@
 * **Input Texture Slots:** 0,1,2,4,5,6
 * **Input Texture Dimensions:** 5@0,5@1,5@2,0@4,5@5,0@6
 * **Input Texture Mask:** 0x77
-* **Input Texture Count:** ((6))
-* **Input Count (Vertex):** ((0))
+* **Input Texture Count:** (6)
+* **Input Count (Vertex):** (0)
 * **Input Mask (Vertex):** 0x0
-* **Output Count:** ((6))
+* **Output Count:** (6)
 * **Output Mask:** 0x3F
 
 ### Game versions verified
 * **1.10.163**
+
+### Tags
+* **Size Category:** Small
+* **Logic Engine:** Full World-to-Screen Transform (cb2+cb12)
+* **Motion Awareness:** Yes (cb12 Motion Data detected)
 
 ---
 *GFXBooster ShaderDB.*

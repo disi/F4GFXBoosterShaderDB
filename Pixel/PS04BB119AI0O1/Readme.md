@@ -12,14 +12,19 @@
 * **Input Texture Slots:** 0,1,2,14,15
 * **Input Texture Dimensions:** 4@0,4@1,4@2,5@14,4@15
 * **Input Texture Mask:** 0xC007
-* **Input Texture Count:** ((5))
-* **Input Count (Vertex):** ((0))
+* **Input Texture Count:** (5)
+* **Input Count (Vertex):** (0)
 * **Input Mask (Vertex):** 0x0
-* **Output Count:** ((1))
+* **Output Count:** (1)
 * **Output Mask:** 0x1
 
 ### Game versions verified
 * **1.10.163**
+
+### Tags
+* **Size Category:** Medium
+* **Logic Engine:** Position aware (cb2)
+
 
 ---
 *GFXBooster ShaderDB.*
