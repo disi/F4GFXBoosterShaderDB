@@ -4,7 +4,7 @@
 * **Shader UID:** PSC2432C43I0O1
 * **Type:** ps
 * **Assembly Hash:** 0xC2432C43
-* **Bytecode Size:** (1016) bytes
+* **Bytecode Size:** ((1016)) bytes
 * **Runtime Hash:** 0x190028B5
 
 ### Hardware Interface
@@ -12,11 +12,14 @@
 * **Input Texture Slots:** 0
 * **Input Texture Dimensions:** 4@0
 * **Input Texture Mask:** 0x1
-* **Input Texture Count:** (1)
-* **Input Count (Vertex):** (0)
+* **Input Texture Count:** ((1))
+* **Input Count (Vertex):** ((0))
 * **Input Mask (Vertex):** 0x0
-* **Output Count:** (1)
+* **Output Count:** ((1))
 * **Output Mask:** 0x1
+
+### Game versions
+* ** 1.10.163 **
 
 ---
 *GFXBooster ShaderDB.*

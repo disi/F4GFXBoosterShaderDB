@@ -4,7 +4,7 @@
 * **Shader UID:** VSA968C0C6I4O9
 * **Type:** vs
 * **Assembly Hash:** 0xA968C0C6
-* **Bytecode Size:** (2772) bytes
+* **Bytecode Size:** ((2772)) bytes
 * **Runtime Hash:** 0xCEAAFB1D
 
 ### Hardware Interface
@@ -12,11 +12,14 @@
 * **Input Texture Slots:** 
 * **Input Texture Dimensions:** 
 * **Input Texture Mask:** 0x0
-* **Input Texture Count:** (0)
-* **Input Count (Vertex):** (4)
+* **Input Texture Count:** ((0))
+* **Input Count (Vertex):** ((4))
 * **Input Mask (Vertex):** 0xF
-* **Output Count:** (9)
+* **Output Count:** ((9))
 * **Output Mask:** 0x1FF
+
+### Game versions
+* ** 1.10.163 **
 
 ---
 *GFXBooster ShaderDB.*
