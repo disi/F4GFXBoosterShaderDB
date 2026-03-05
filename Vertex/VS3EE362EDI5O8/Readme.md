@@ -18,8 +18,8 @@
 * **Output Count:** ((8))
 * **Output Mask:** 0xFF
 
-### Game versions
-* ** 1.10.163 **
+### Game versions verified
+* **1.10.163**
 
 ---
 *GFXBooster ShaderDB.*
