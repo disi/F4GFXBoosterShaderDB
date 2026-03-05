@@ -19,6 +19,7 @@
 * **Output Mask:** 0xF
 
 ### Game versions verified
+* **1.10.163**
 * **1.11.191**
 
 ### Tags

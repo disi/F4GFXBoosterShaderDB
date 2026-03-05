@@ -4,8 +4,8 @@
 * **Shader UID:** VS1B23A311I2O3
 * **Type:** vs
 * **Assembly Hash:** 0x1B23A311
-* **Bytecode Size:** ((2048)) bytes
-* **Runtime Hash:** 0x5FB357C4
+* **Bytecode Size:** ((2020)) bytes
+* **Runtime Hash:** 0x722ECD51
 
 ### Hardware Interface
 * **Buffer Layout:** 32@0,576@12
@@ -14,12 +14,13 @@
 * **Input Texture Mask:** 0x40
 * **Input Texture Count:** (1)
 * **Input Count (Vertex):** (2)
-* **Input Mask (Vertex):** 0x21
+* **Input Mask (Vertex):** 0x11
 * **Output Count:** (3)
 * **Output Mask:** 0x7
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

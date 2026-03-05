@@ -3,7 +3,7 @@ active=true
 priority=0
 type=vs
 shaderUID=VSA1EA56A5I3O3
-hash=0xC53BCC59
+hash=0xBF7E16A2
 asmHash=0xA1EA56A5
 size=(876)
 buffersize=64@0
@@ -16,7 +16,7 @@ inputcount=(3)
 inputMask=0x7
 outputcount=(3)
 outputMask=0x7
-shader=;3309030489_replacement.hlsl
+shader=;VSA1EA56A5I3O3_replacement.hlsl
 log=true
 dump=true
 [/vertexHunt]

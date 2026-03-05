@@ -4,11 +4,11 @@
 * **Shader UID:** VS7C4AA61EI3O3
 * **Type:** vs
 * **Assembly Hash:** 0x7C4AA61E
-* **Bytecode Size:** ((1124)) bytes
-* **Runtime Hash:** 0x23491C5F
+* **Bytecode Size:** ((1056)) bytes
+* **Runtime Hash:** 0x82545B2C
 
 ### Hardware Interface
-* **Buffer Layout:** 64@0
+* **Buffer Layout:** 768@0
 * **Input Texture Slots:** 
 * **Input Texture Dimensions:** 
 * **Input Texture Mask:** 0x0
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

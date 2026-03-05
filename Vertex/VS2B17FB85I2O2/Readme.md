@@ -4,8 +4,8 @@
 * **Shader UID:** VS2B17FB85I2O2
 * **Type:** vs
 * **Assembly Hash:** 0x2B17FB85
-* **Bytecode Size:** ((1316)) bytes
-* **Runtime Hash:** 0x8B79C57F
+* **Bytecode Size:** ((1208)) bytes
+* **Runtime Hash:** 0x6A261F4
 
 ### Hardware Interface
 * **Buffer Layout:** 2304@0
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

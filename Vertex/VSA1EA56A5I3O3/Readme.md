@@ -5,7 +5,7 @@
 * **Type:** vs
 * **Assembly Hash:** 0xA1EA56A5
 * **Bytecode Size:** ((876)) bytes
-* **Runtime Hash:** 0xC53BCC59
+* **Runtime Hash:** 0xBF7E16A2
 
 ### Hardware Interface
 * **Buffer Layout:** 64@0
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

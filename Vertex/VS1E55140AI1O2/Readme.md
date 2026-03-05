@@ -4,8 +4,8 @@
 * **Shader UID:** VS1E55140AI1O2
 * **Type:** vs
 * **Assembly Hash:** 0x1E55140A
-* **Bytecode Size:** ((1972)) bytes
-* **Runtime Hash:** 0x1DB4178A
+* **Bytecode Size:** ((1880)) bytes
+* **Runtime Hash:** 0xFD15EEFC
 
 ### Hardware Interface
 * **Buffer Layout:** 32@0,64@2,576@12
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

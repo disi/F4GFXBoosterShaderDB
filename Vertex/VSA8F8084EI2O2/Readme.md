@@ -4,11 +4,11 @@
 * **Shader UID:** VSA8F8084EI2O2
 * **Type:** vs
 * **Assembly Hash:** 0xA8F8084E
-* **Bytecode Size:** ((424)) bytes
-* **Runtime Hash:** 0x80F86FC4
+* **Bytecode Size:** ((392)) bytes
+* **Runtime Hash:** 0xCAEAC8C6
 
 ### Hardware Interface
-* **Buffer Layout:** 16@2
+* **Buffer Layout:** 48@2
 * **Input Texture Slots:** 
 * **Input Texture Dimensions:** 
 * **Input Texture Mask:** 0x0
@@ -20,10 +20,11 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small
-* **Logic Engine:** Material Parameter (cb2 size: 16)
+* **Logic Engine:** World-Object Mapping (cb2 size: 48)
 
 ---
 *GFXBooster ShaderDB.*

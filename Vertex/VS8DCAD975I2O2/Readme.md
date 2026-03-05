@@ -4,8 +4,8 @@
 * **Shader UID:** VS8DCAD975I2O2
 * **Type:** vs
 * **Assembly Hash:** 0x8DCAD975
-* **Bytecode Size:** ((1184)) bytes
-* **Runtime Hash:** 0x81C3CBE3
+* **Bytecode Size:** ((1172)) bytes
+* **Runtime Hash:** 0xA5B98B8B
 
 ### Hardware Interface
 * **Buffer Layout:** 1536@0
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

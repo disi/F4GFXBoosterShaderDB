@@ -16,7 +16,7 @@ inputcount=(9)
 inputMask=0x1FF
 outputcount=(7)
 outputMask=0x7F
-shader=;3401017382_replacement.hlsl
+shader=;VS9AEF68B9I9O7_replacement.hlsl
 log=true
 dump=true
 [/vertexHunt]
