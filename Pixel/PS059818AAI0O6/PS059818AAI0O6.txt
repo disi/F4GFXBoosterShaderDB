@@ -16,7 +16,7 @@ inputcount=(0)
 inputMask=0x0
 outputcount=(6)
 outputMask=0x3F
-shader=;2210398224_replacement.hlsl
+shader=;PS059818AAI0O6_replacement.hlsl
 log=true
 dump=true
 [/pixelHunt]

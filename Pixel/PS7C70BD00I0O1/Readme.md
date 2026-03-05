@@ -4,8 +4,8 @@
 * **Shader UID:** PS7C70BD00I0O1
 * **Type:** ps
 * **Assembly Hash:** 0x7C70BD00
-* **Bytecode Size:** ((1456)) bytes
-* **Runtime Hash:** 0x110E6717
+* **Bytecode Size:** ((1416)) bytes
+* **Runtime Hash:** 0x6B47E9E4
 
 ### Hardware Interface
 * **Buffer Layout:** 
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

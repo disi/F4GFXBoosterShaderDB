@@ -1,0 +1,29 @@
+﻿# Pixel Shader: PS3EB54E48I0O1
+
+### Identity
+* **Shader UID:** PS3EB54E48I0O1
+* **Type:** ps
+* **Assembly Hash:** 0x3EB54E48
+* **Bytecode Size:** ((2120)) bytes
+* **Runtime Hash:** 0x378A9489
+
+### Hardware Interface
+* **Buffer Layout:** 112@2
+* **Input Texture Slots:** 0,1,2
+* **Input Texture Dimensions:** 4@0,4@1,4@2
+* **Input Texture Mask:** 0x7
+* **Input Texture Count:** (3)
+* **Input Count (Vertex):** (0)
+* **Input Mask (Vertex):** 0x0
+* **Output Count:** (1)
+* **Output Mask:** 0x1
+
+### Game versions verified
+* **1.11.191**
+
+### Tags
+* **Size Category:** Small
+* **Logic Engine:** World-Object Mapping (cb2 size: 112)
+
+---
+*GFXBooster ShaderDB.*

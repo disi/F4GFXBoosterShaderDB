@@ -4,11 +4,11 @@
 * **Shader UID:** PSEB17B5B9I0O1
 * **Type:** ps
 * **Assembly Hash:** 0xEB17B5B9
-* **Bytecode Size:** ((756)) bytes
-* **Runtime Hash:** 0x1B756462
+* **Bytecode Size:** ((448)) bytes
+* **Runtime Hash:** 0x364BA8D2
 
 ### Hardware Interface
-* **Buffer Layout:** 
+* **Buffer Layout:** 16@2
 * **Input Texture Slots:** 0
 * **Input Texture Dimensions:** 4@0
 * **Input Texture Mask:** 0x1
@@ -20,10 +20,11 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small
-* **Logic Engine:** Post-Process/Static
+* **Logic Engine:** Material Parameter (cb2 size: 16)
 
 ---
 *GFXBooster ShaderDB.*

@@ -4,13 +4,13 @@
 * **Shader UID:** PSAD25182DI0O1
 * **Type:** ps
 * **Assembly Hash:** 0xAD25182D
-* **Bytecode Size:** ((16928)) bytes
-* **Runtime Hash:** 0xDEED9AFB
+* **Bytecode Size:** ((16900)) bytes
+* **Runtime Hash:** 0x9FB1B58E
 
 ### Hardware Interface
-* **Buffer Layout:** 128@0,80@1,32@2,16@3
+* **Buffer Layout:** 128@0,80@1,32@2
 * **Input Texture Slots:** 0,1
-* **Input Texture Dimensions:** 5@0,6@1
+* **Input Texture Dimensions:** 5@0,4@1
 * **Input Texture Mask:** 0x3
 * **Input Texture Count:** (2)
 * **Input Count (Vertex):** (0)
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Large Medium

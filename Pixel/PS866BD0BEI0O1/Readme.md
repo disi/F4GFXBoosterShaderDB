@@ -5,10 +5,10 @@
 * **Type:** ps
 * **Assembly Hash:** 0x866BD0BE
 * **Bytecode Size:** ((564)) bytes
-* **Runtime Hash:** 0x8F6EA0D0
+* **Runtime Hash:** 0x3CAA087B
 
 ### Hardware Interface
-* **Buffer Layout:** 288@2
+* **Buffer Layout:** 96@2
 * **Input Texture Slots:** 0
 * **Input Texture Dimensions:** 4@0
 * **Input Texture Mask:** 0x1
@@ -20,10 +20,11 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small
-* **Logic Engine:** World-Object Mapping (cb2 size: 288)
+* **Logic Engine:** World-Object Mapping (cb2 size: 96)
 
 ---
 *GFXBooster ShaderDB.*

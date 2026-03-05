@@ -4,11 +4,11 @@
 * **Shader UID:** PSBFB77F55I0O1
 * **Type:** ps
 * **Assembly Hash:** 0xBFB77F55
-* **Bytecode Size:** ((632)) bytes
-* **Runtime Hash:** 0x432F9CD2
+* **Bytecode Size:** ((536)) bytes
+* **Runtime Hash:** 0xD294EAA3
 
 ### Hardware Interface
-* **Buffer Layout:** 16@0
+* **Buffer Layout:** 
 * **Input Texture Slots:** 
 * **Input Texture Dimensions:** 
 * **Input Texture Mask:** 0x0
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

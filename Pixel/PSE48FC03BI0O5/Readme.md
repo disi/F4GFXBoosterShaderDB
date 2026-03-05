@@ -1,0 +1,29 @@
+﻿# Pixel Shader: PSE48FC03BI0O5
+
+### Identity
+* **Shader UID:** PSE48FC03BI0O5
+* **Type:** ps
+* **Assembly Hash:** 0xE48FC03B
+* **Bytecode Size:** ((4160)) bytes
+* **Runtime Hash:** 0x56BA615F
+
+### Hardware Interface
+* **Buffer Layout:** 16@0,112@2,176@6,496@12
+* **Input Texture Slots:** 0,1,2,13,15
+* **Input Texture Dimensions:** 4@0,4@1,4@2,4@13,4@15
+* **Input Texture Mask:** 0xA007
+* **Input Texture Count:** (5)
+* **Input Count (Vertex):** (0)
+* **Input Mask (Vertex):** 0x0
+* **Output Count:** (5)
+* **Output Mask:** 0x1F
+
+### Game versions verified
+* **1.11.191**
+
+### Tags
+* **Size Category:** Small
+* **Logic Engine:** World-Object Mapping (cb2 size: 112) + View-Projection/Motion (cb12)
+
+---
+*GFXBooster ShaderDB.*

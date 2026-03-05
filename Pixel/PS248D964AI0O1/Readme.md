@@ -4,15 +4,15 @@
 * **Shader UID:** PS248D964AI0O1
 * **Type:** ps
 * **Assembly Hash:** 0x248D964A
-* **Bytecode Size:** ((668)) bytes
-* **Runtime Hash:** 0xF36F663F
+* **Bytecode Size:** ((448)) bytes
+* **Runtime Hash:** 0x2B727C
 
 ### Hardware Interface
-* **Buffer Layout:** 16@0
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
-* **Input Texture Count:** (0)
+* **Buffer Layout:** 
+* **Input Texture Slots:** 1
+* **Input Texture Dimensions:** 4@1
+* **Input Texture Mask:** 0x2
+* **Input Texture Count:** (1)
 * **Input Count (Vertex):** (0)
 * **Input Mask (Vertex):** 0x0
 * **Output Count:** (1)
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

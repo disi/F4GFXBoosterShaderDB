@@ -3,7 +3,7 @@ active=true
 priority=0
 type=ps
 shaderUID=PS904B0110I0O6
-hash=0x9569336D
+hash=0x70E54BC0
 asmHash=0x904B0110
 size=(3740)
 buffersize=128@2,656@12
@@ -16,7 +16,7 @@ inputcount=(0)
 inputMask=0x0
 outputcount=(6)
 outputMask=0x3F
-shader=;2506699629_replacement.hlsl
+shader=;PS904B0110I0O6_replacement.hlsl
 log=true
 dump=true
 [/pixelHunt]

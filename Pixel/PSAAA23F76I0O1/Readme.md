@@ -4,8 +4,8 @@
 * **Shader UID:** PSAAA23F76I0O1
 * **Type:** ps
 * **Assembly Hash:** 0xAAA23F76
-* **Bytecode Size:** ((2836)) bytes
-* **Runtime Hash:** 0xF2657ABC
+* **Bytecode Size:** ((2796)) bytes
+* **Runtime Hash:** 0xBB77CA7F
 
 ### Hardware Interface
 * **Buffer Layout:** 224@0,16@2
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

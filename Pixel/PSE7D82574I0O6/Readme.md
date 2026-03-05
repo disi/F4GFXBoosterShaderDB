@@ -5,7 +5,7 @@
 * **Type:** ps
 * **Assembly Hash:** 0xE7D82574
 * **Bytecode Size:** ((3492)) bytes
-* **Runtime Hash:** 0x2B0DC68C
+* **Runtime Hash:** 0x8E93ACD7
 
 ### Hardware Interface
 * **Buffer Layout:** 112@2,656@12
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

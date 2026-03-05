@@ -4,8 +4,8 @@
 * **Shader UID:** PS3BDADD82I0O3
 * **Type:** ps
 * **Assembly Hash:** 0x3BDADD82
-* **Bytecode Size:** ((58012)) bytes
-* **Runtime Hash:** 0xB02A6226
+* **Bytecode Size:** ((58048)) bytes
+* **Runtime Hash:** 0xA91B4788
 
 ### Hardware Interface
 * **Buffer Layout:** 16@2,5120@12
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Huge Large Medium

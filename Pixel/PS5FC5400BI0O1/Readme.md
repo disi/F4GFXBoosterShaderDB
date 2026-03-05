@@ -4,8 +4,8 @@
 * **Shader UID:** PS5FC5400BI0O1
 * **Type:** ps
 * **Assembly Hash:** 0x5FC5400B
-* **Bytecode Size:** ((1276)) bytes
-* **Runtime Hash:** 0x6CB1458A
+* **Bytecode Size:** ((1252)) bytes
+* **Runtime Hash:** 0x1FD5EB9A
 
 ### Hardware Interface
 * **Buffer Layout:** 48@1,240@2
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small

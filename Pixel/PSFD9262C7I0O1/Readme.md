@@ -4,11 +4,11 @@
 * **Shader UID:** PSFD9262C7I0O1
 * **Type:** ps
 * **Assembly Hash:** 0xFD9262C7
-* **Bytecode Size:** ((5872)) bytes
-* **Runtime Hash:** 0xD58D62A6
+* **Bytecode Size:** ((5904)) bytes
+* **Runtime Hash:** 0xF6EE7540
 
 ### Hardware Interface
-* **Buffer Layout:** 48@0,224@1,752@12
+* **Buffer Layout:** 64@0,224@1,752@12
 * **Input Texture Slots:** 1,4,5,6,11
 * **Input Texture Dimensions:** 4@1,4@4,4@5,4@6,4@11
 * **Input Texture Mask:** 0x872
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Medium

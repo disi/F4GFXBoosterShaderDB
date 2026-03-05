@@ -4,11 +4,11 @@
 * **Shader UID:** PSD5C05135I0O1
 * **Type:** ps
 * **Assembly Hash:** 0xD5C05135
-* **Bytecode Size:** ((696)) bytes
-* **Runtime Hash:** 0x4407942A
+* **Bytecode Size:** ((1020)) bytes
+* **Runtime Hash:** 0x800438BF
 
 ### Hardware Interface
-* **Buffer Layout:** 
+* **Buffer Layout:** 16@0
 * **Input Texture Slots:** 0
 * **Input Texture Dimensions:** 4@0
 * **Input Texture Mask:** 0x1
@@ -20,6 +20,7 @@
 
 ### Game versions verified
 * **1.10.163**
+* **1.11.191**
 
 ### Tags
 * **Size Category:** Small
