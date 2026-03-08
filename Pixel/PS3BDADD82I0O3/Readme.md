@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** PS3BDADD82I0O3
-* **Type:** ps
 * **Assembly Hash:** 0x3BDADD82
-* **Bytecode Size:** ((58048)) bytes
-* **Runtime Hash:** 0xA91B4788
+* **Bytecode Size:** (58048) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 16@2,5120@12
-* **Input Texture Slots:** 0,1,2,3,4
-* **Input Texture Dimensions:** 5@0,5@1,5@2,5@3,4@4
-* **Input Texture Mask:** 0x1F
+* **Texture Slots:** 0,1,2,3,4
+* **Texture Dimensions:** 5@0,5@1,5@2,5@3,4@4
 * **Input Texture Count:** (5)
 * **Input Count (Vertex):** (0)
-* **Input Mask (Vertex):** 0x0
 * **Output Count:** (3)
-* **Output Mask:** 0x7
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Huge Large Medium
-* **Logic Engine:** Material Parameter (cb2 size: 16) + View-Projection/Motion (cb12)
+### Analysis & Tags
+* **Logic Engine:** Standard Material (Tint/Alpha) + Injected Globals/Motion
+* **Data Context:** Material & Lighting
 
 ---
-*GFXBooster ShaderDB.*
+

@@ -2,28 +2,23 @@
 
 ### Identity
 * **Shader UID:** VSF442FC06I2O3
-* **Type:** vs
 * **Assembly Hash:** 0xF442FC06
-* **Bytecode Size:** ((528)) bytes
-* **Runtime Hash:** 0x6A191020
+* **Bytecode Size:** (528) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 16@2
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (2)
-* **Input Mask (Vertex):** 0x3
 * **Output Count:** (3)
-* **Output Mask:** 0x7
 
-### Game versions verified
-* **1.10.163**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** Material Parameter (cb2 size: 16)
+### Analysis & Tags
+* **Logic Engine:** Static/Post-Process
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+

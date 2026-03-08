@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** VS2038B166I6O6
-* **Type:** vs
 * **Assembly Hash:** 0x2038B166
-* **Bytecode Size:** ((4104)) bytes
-* **Runtime Hash:** 0xFDEACAE8
+* **Bytecode Size:** (4104) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 48@1,2880@10,752@12
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (6)
-* **Input Mask (Vertex):** 0x3F
 * **Output Count:** (6)
-* **Output Mask:** 0x3F
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** View-Projection/Motion (cb12)
+### Analysis & Tags
+* **Logic Engine:** Injected Globals/Motion
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+

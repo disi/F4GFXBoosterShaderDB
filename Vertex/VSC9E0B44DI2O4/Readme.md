@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** VSC9E0B44DI2O4
-* **Type:** vs
 * **Assembly Hash:** 0xC9E0B44D
-* **Bytecode Size:** ((552)) bytes
-* **Runtime Hash:** 0x3C39F230
+* **Bytecode Size:** (552) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 32@2
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (2)
-* **Input Mask (Vertex):** 0x3
 * **Output Count:** (4)
-* **Output Mask:** 0x7
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** World-Object Mapping (cb2 size: 32)
+### Analysis & Tags
+* **Logic Engine:** Static/Post-Process
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+

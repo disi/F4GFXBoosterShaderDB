@@ -2,28 +2,23 @@
 
 ### Identity
 * **Shader UID:** PS1023245AI0O5
-* **Type:** ps
 * **Assembly Hash:** 0x1023245A
-* **Bytecode Size:** ((4796)) bytes
-* **Runtime Hash:** 0x52204AC7
+* **Bytecode Size:** (4796) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 160@2,496@12
-* **Input Texture Slots:** 0,1,2,9,10,11
-* **Input Texture Dimensions:** 4@0,4@1,4@2,4@9,4@10,4@11
-* **Input Texture Mask:** 0xE07
+* **Texture Slots:** 0,1,2,9,10,11
+* **Texture Dimensions:** 4@0,4@1,4@2,4@9,4@10,4@11
 * **Input Texture Count:** (6)
 * **Input Count (Vertex):** (0)
-* **Input Mask (Vertex):** 0x0
 * **Output Count:** (5)
-* **Output Mask:** 0x1F
 
-### Game versions verified
-* **1.10.163**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** World-Object Mapping (cb2 size: 160) + View-Projection/Motion (cb12)
+### Analysis & Tags
+* **Logic Engine:** Advanced Material (Gloss/Roughness) + Injected Globals/Motion
+* **Data Context:** Material & Lighting
 
 ---
-*GFXBooster ShaderDB.*
+

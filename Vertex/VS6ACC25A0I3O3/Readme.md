@@ -2,28 +2,23 @@
 
 ### Identity
 * **Shader UID:** VS6ACC25A0I3O3
-* **Type:** vs
 * **Assembly Hash:** 0x6ACC25A0
-* **Bytecode Size:** ((1604)) bytes
-* **Runtime Hash:** 0x31058BA2
+* **Bytecode Size:** (1604) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 304@1
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (3)
-* **Input Mask (Vertex):** 0x7
 * **Output Count:** (3)
-* **Output Mask:** 0x7
 
-### Game versions verified
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** Post-Process/Static
+### Analysis & Tags
+* **Logic Engine:** Static/Post-Process
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+

@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** VS76458A64I4O5
-* **Type:** vs
 * **Assembly Hash:** 0x76458A64
-* **Bytecode Size:** ((2844)) bytes
-* **Runtime Hash:** 0x2C469A7F
+* **Bytecode Size:** (2844) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 48@1,112@2,2048@11,752@12
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (4)
-* **Input Mask (Vertex):** 0xF
 * **Output Count:** (5)
-* **Output Mask:** 0x1F
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** World-Object Mapping (cb2 size: 112) + View-Projection/Motion (cb12)
+### Analysis & Tags
+* **Logic Engine:** World-Object Transform + Injected Globals/Motion
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+

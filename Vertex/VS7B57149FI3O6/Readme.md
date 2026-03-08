@@ -2,28 +2,23 @@
 
 ### Identity
 * **Shader UID:** VS7B57149FI3O6
-* **Type:** vs
 * **Assembly Hash:** 0x7B57149F
-* **Bytecode Size:** ((4952)) bytes
-* **Runtime Hash:** 0xCDBB2845
+* **Bytecode Size:** (4952) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 112@0,16@1,384@2,752@3
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (3)
-* **Input Mask (Vertex):** 0x7
 * **Output Count:** (6)
-* **Output Mask:** 0x3F
 
-### Game versions verified
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** World-Object Mapping (cb2 size: 384)
+### Analysis & Tags
+* **Logic Engine:** World-Object Transform + Camera Projection
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+

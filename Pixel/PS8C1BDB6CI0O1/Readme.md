@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** PS8C1BDB6CI0O1
-* **Type:** ps
 * **Assembly Hash:** 0x8C1BDB6C
-* **Bytecode Size:** ((3176)) bytes
-* **Runtime Hash:** 0xA45BB07B
+* **Bytecode Size:** (3176) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 80@0
-* **Input Texture Slots:** 0,3
-* **Input Texture Dimensions:** 4@0,4@3
-* **Input Texture Mask:** 0x9
+* **Texture Slots:** 0,3
+* **Texture Dimensions:** 4@0,4@3
 * **Input Texture Count:** (2)
 * **Input Count (Vertex):** (0)
-* **Input Mask (Vertex):** 0x0
 * **Output Count:** (1)
-* **Output Mask:** 0x1
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** Post-Process/Static
+### Analysis & Tags
+* **Logic Engine:** Projected/Screen-Space
+* **Data Context:** Material & Lighting
 
 ---
-*GFXBooster ShaderDB.*
+

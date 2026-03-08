@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** PSFEB2662FI0O1
-* **Type:** ps
 * **Assembly Hash:** 0xFEB2662F
-* **Bytecode Size:** ((9396)) bytes
-* **Runtime Hash:** 0x45BB1C54
+* **Bytecode Size:** (9396) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 336@0,16@2
-* **Input Texture Slots:** 0,1,2
-* **Input Texture Dimensions:** 4@0,6@1,4@2
-* **Input Texture Mask:** 0x7
+* **Texture Slots:** 0,1,2
+* **Texture Dimensions:** 4@0,6@1,4@2
 * **Input Texture Count:** (3)
 * **Input Count (Vertex):** (0)
-* **Input Mask (Vertex):** 0x0
 * **Output Count:** (1)
-* **Output Mask:** 0x1
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Medium
-* **Logic Engine:** Material Parameter (cb2 size: 16)
+### Analysis & Tags
+* **Logic Engine:** Standard Material (Tint/Alpha) + Projected/Screen-Space
+* **Data Context:** Material & Lighting
 
 ---
-*GFXBooster ShaderDB.*
+

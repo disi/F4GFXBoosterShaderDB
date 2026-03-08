@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** VS8DCAD975I4O4
-* **Type:** vs
 * **Assembly Hash:** 0x8DCAD975
-* **Bytecode Size:** ((1376)) bytes
-* **Runtime Hash:** 0x5A379FE4
+* **Bytecode Size:** (1376) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 1536@0
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (4)
-* **Input Mask (Vertex):** 0xF
 * **Output Count:** (4)
-* **Output Mask:** 0xF
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** Post-Process/Static
+### Analysis & Tags
+* **Logic Engine:** Camera Projection
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+

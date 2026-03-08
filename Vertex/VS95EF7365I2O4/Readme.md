@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** VS95EF7365I2O4
-* **Type:** vs
 * **Assembly Hash:** 0x95EF7365
-* **Bytecode Size:** ((1120)) bytes
-* **Runtime Hash:** 0xCF3C498F
+* **Bytecode Size:** (1120) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 64@0
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (2)
-* **Input Mask (Vertex):** 0x3
 * **Output Count:** (4)
-* **Output Mask:** 0xF
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** Post-Process/Static
+### Analysis & Tags
+* **Logic Engine:** Camera Projection
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+

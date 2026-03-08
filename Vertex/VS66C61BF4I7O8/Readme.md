@@ -2,29 +2,23 @@
 
 ### Identity
 * **Shader UID:** VS66C61BF4I7O8
-* **Type:** vs
 * **Assembly Hash:** 0x66C61BF4
-* **Bytecode Size:** ((4296)) bytes
-* **Runtime Hash:** 0x95D080CB
+* **Bytecode Size:** (4296) bytes
 
 ### Hardware Interface
 * **Buffer Layout:** 16@1,2880@9,2880@10,592@12
-* **Input Texture Slots:** 
-* **Input Texture Dimensions:** 
-* **Input Texture Mask:** 0x0
+* **Texture Slots:** 
+* **Texture Dimensions:** 
 * **Input Texture Count:** (0)
 * **Input Count (Vertex):** (7)
-* **Input Mask (Vertex):** 0x7F
 * **Output Count:** (8)
-* **Output Mask:** 0xFF
 
-### Game versions verified
-* **1.10.163**
-* **1.11.191**
+### Game Versions
+* **Verified 1.10.163**
 
-### Tags
-* **Size Category:** Small
-* **Logic Engine:** View-Projection/Motion (cb12)
+### Analysis & Tags
+* **Logic Engine:** Injected Globals/Motion
+* **Data Context:** Geometry & Matrices
 
 ---
-*GFXBooster ShaderDB.*
+
