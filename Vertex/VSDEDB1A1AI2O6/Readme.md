@@ -14,7 +14,7 @@
 * **Output Count:** (6)
 
 ### Game Versions
-* **Verified 1.10.163**
+* **Verified 1.11.191**
 
 ### Analysis & Tags
 * **Logic Engine:** Camera Projection

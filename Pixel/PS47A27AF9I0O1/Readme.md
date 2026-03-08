@@ -15,6 +15,7 @@
 
 ### Game Versions
 * **Verified 1.10.163**
+* **Verified 1.11.191**
 
 ### Analysis & Tags
 * **Logic Engine:** Static/Post-Process
